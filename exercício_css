@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu portal de notícias</title>
+    <link rel="stylesheet" href="./Estilo.css" />
+</head>
+<body>
+    <header>
+        <div class="conteiner">
+            <h1>Meu portal de notícias</h1>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="#sports" title="Ir para a seção de esportes">Esportes</a>
+                    </li>
+                    <li>
+                        <a href="#economy" title="Ir para a seção de notícias">Economia</a>
+                    </li>
+                    <li>
+                        <a href="#entretenimento" title="Ir para a seção de entretenimento">Entretenimento</a>
+                    </li>
+                    <li>
+                        <a href="#tecnologia" title="Ir para a seção de tecnologia">Tecnologia</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <section id="sports">
+        <div class="conteiner">
+            <h2>Esportes</h2>
+            <div class="articles">
+                <article>
+                    <img src="./imagens/futebol.jpg" alt="Bola de futebol no gramado" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Grande clássico na noite de hoje</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="./imagens/futebol-americano.jpg" alt="Jogador de futebol americano correndo com a bola na mão" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Noite do Superbowl</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="./imagens/basquete.jpg" title="Vista aérea de uma quadra de basquete" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Notícia sobre a NBA</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="./imagens/basquete.jpg" title="Vista aérea de uma quadra de basquete" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Notícia sobre a NBA</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+            </div>
+        </div>
+    </section>
+    <section id="economy">
+        <div class="conteiner">
+            <h2>Economia</h2>
+            <div class="articles">
+                <article>
+                    <img src="./imagens/dolares.jpg" alt="Muitos dólares" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Dólar em alta de 0.50%</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="./imagens/euro.jpg" alt="Várias notas de euro" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Euro em queda de 0.40%</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+                <article>
+                    <img src="./imagens/petroleo.jpg" alt="Extração de petróleo" />
+                    <header>
+                        <time>13/07/2022 às 12:35</time>
+                    </header>
+                    <h3>Alta no preço do barril do petróleo</h3>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+                    </p>
+                    <a href="#" title="Leia a notícia completa">Ler mais</a>
+                </article>
+            </div>
+        </div>
+    </section>
+
+                           
+
+
+    <section id="entretenimento">
+        <div class="conteiner">
+            <h2>Entretenimento</h2>
+            <div class="articles">
+                <article>
+                    <img src="./imagens/entretenimento.jpg" alt="img de entretenimento 1" />
+                    <header>
+                        <time>11/01/2024 às 14:58</time>
+                    </header>
+                    <h3>Significado de Entretenimento</h3>
+                    <p>
+                        Entretenimento ou entretimento é qualquer ação, evento ou atividade com o fim de entreter e suscitar o interesse de uma audiência. É a presença de uma audiência que torna qualquer atividade privada de recreação ou lazer em entretenimento. A audiência pode ter um papel passivo, como quando se assiste a uma peça teatral, ópera, programa de televisão ou filme; ou um papel ativo, como no caso dos jogos. 
+                    </p>
+                    <a href="https://pt.wikipedia.org/wiki/Entretenimento" title="leia mais sobre a noticia">Ler mais</a>
+                </article>
+                <article>
+                    <img src="./imagens/entretenimento-2.jpg" title="img de entretenimento 2" />
+                    <header>
+                        <time>11/01/2024 às 14:58</time>
+                    </header>
+                    <h3>10 Tipos de Entretenimento - O que você gosta de fazer?</h3>
+                    <p>
+                        É parte integrante de nossas vidas. Todo mundo quer que suas vidas sejam cheias de emoção e prazer. Não há espaço para o tédio em sua vida diária.
+                        Não se trata apenas de trabalho e escola. É essencial ter tempo para ter prazer e emoção também. Não é apenas saudável para o seu bem-estar físico, mas também para a sua saúde mental. Os participantes que participam de atividades divertidas para entretenimento tendem a ser menos propensos a entrar em depressão.
+                    </p>
+                    <a href="https://jornaldebrasilia.com.br/nahorah/10-tipos-de-entretenimento-o-que-voce-gosta-de-fazer/" title="leia mais sobre a noticia">Ler mais</a>
+                </article>
+                <article>
+                    <img src="./imagens/entretenimento-3.jpg" title="img de entretenimento 3" />
+                    <header>
+                        <time>11/01/2024 às 14:58</time>
+                    </header>
+                    <h3>Notícia e entretenimento</h3>
+                    <p>
+                        Aqui você encontrará as diversas notícias e entretenimento.
+                    </p>
+                    <a href="https://entretenimento.r7.com/" title="Leia a notícia completa">Ler mais</a>
+                </article>
+            </div>
+        </div>
+    </section> 
+
+              
+    <section id="tecnologia">
+        <div class="conteiner">
+            <h2>Tecnologia</h2>
+                <div class="articles">
+                    <article>
+                        <img src="./imagens/tech.jpeg" alt="img de tecnologia 1" />
+                        <header>
+                            <time>11/01/2024 às 14:58</time>
+                        </header>
+                        <h3>Significado de tecnologia</h3>
+                        <p>
+                            Tecnologia (do grego τέχνη — "técnica, arte, ofício" e -λογία[2] — "estudo") é o conjunto de técnicas, habilidades, métodos e processos usados na produção de bens ou serviços, ou na realização de objetivos, como em investigações científicas. 
+                        </p>
+                        <a href="https://pt.wikipedia.org/wiki/Tecnologia" title="Leia a notícia completa">Ler mais</a>
+                    </article>
+                    <article>
+                        <img src="./imagens/tech-2.jpg" title="img de tecnologia 2" />
+                        <header>
+                            <time>11/01/2024 às 14:58</time>
+                        </header>
+                        <h3>Os Tipos de Tecnologia: Você conhece todos?</h3>
+                        <p>
+                            Conheça os principais tipos de tecnologias atuais e esclareça de vez todas as dúvidas! O ser humano tem a capacidade de se adaptar às diferentes realidades que o mundo ao seu redor lhe apresenta. Buscamos evoluir não apenas a nós mesmos, mas também criamos tecnologias para melhorar a qualidade de vida.
+                        </p>
+                        <a href="https://tecnologialive.net/tecnologia-da-informacao/tipos-de-tecnologia/" title="Leia a notícia completa">Ler mais</a>
+                    </article>
+                    <article>
+                        <img src="./imagens/tech-3.jpeg" title="img de tecnologia 3" />
+                        <header>
+                            <time>11/01/2024 às 14:58</time>
+                        </header>
+                        <h3>Notícia sobre tecnologia</h3>
+                        <p>
+                            Aqui você encontrará as diversas notícias relacionadas a tecnologia.
+                        </p>
+                        <a href="https://www.tecmundo.com.br/tecnologia/noticias" title="Leia a notícia completa">Ler mais</a>
+                    </article>
+                </div>
+        </div>
+    </section> 
+</body>
+</html>
+
+
+
+
+
